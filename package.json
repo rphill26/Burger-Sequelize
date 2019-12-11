@@ -1,0 +1,26 @@
+{
+  "name": "burger-sequelize",
+  "version": "1.0.0",
+  "description": "A simple express and sequelize app to create and devour burgers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rphill26/Burger-Sequelize.git"
+  },
+  "author": "Randall Phillips",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rphill26/Burger-Sequelize/issues"
+  },
+  "homepage": "https://github.com/rphill26/Burger-Sequelize#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.17.1",
+    "mysql2": "^2.0.2",
+    "sequelize": "^5.21.2"
+  }
+}
